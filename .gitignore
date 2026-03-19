@@ -4,4 +4,3 @@ __pycache__/
 data/
 catboost_info/
 .DS_Store
-*.pdf
